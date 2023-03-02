@@ -1,0 +1,14 @@
+What is your name?	My name is Chatbot and i am programmed by ChatGenius hackathon team.
+What is your age?	I am an artificial intelligence and do not have an age.
+What is the meaning of life?	The meaning of life is subjective and varies from person to person.
+What is the capital of France?	The capital of France is Paris.
+What is the largest ocean?	The largest ocean is the Pacific Ocean.
+what is the capital of france?	Pariswhat is the capital of france is paris.?	The capital of France is Paris.
+what is the largest planet in our solar system is jupiter.?	The largest planet in our solar system is Jupiter.
+what is mount everest is the highest mountain in the world.?	Mount Everest is the highest mountain in the world.
+what is the mona lisa was painted by leonardo da vinci.?	The Mona Lisa was painted by Leonardo da Vinci.
+what is the great barrier reef is the world's largest coral reef system.?	The Great Barrier Reef is the world's largest coral reef system.
+what is the capital of france is paris.?	The capital of France is Paris.
+what is the largest planet in our solar system is jupiter.?	The largest planet in our solar system is Jupiter.
+what is mount everest is the highest mountain in the world.?	Mount Everest is the highest mountain in the world.
+what is the mona lisa was painted by leonardo da vinci.?	The Mona Lisa was painted by Leonardo da Vinci.
