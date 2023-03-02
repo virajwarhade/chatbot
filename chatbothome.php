@@ -70,7 +70,6 @@ if(isset($_GET['submit'])){
         }
     }
 
-    
     // If a matching question is found, return the corresponding answer
     if ($best_match_score > 50) {
         $answer = $qa_dict[$best_match];
