@@ -37,7 +37,7 @@
 
             <div class="incoming-message">
               <p>
-    <?php
+              <?php
 if(isset($_GET['submit'])){
     // Define the delimiter used in the data file
     $delimiter = "\t";
@@ -73,13 +73,14 @@ if(isset($_GET['submit'])){
     // If a matching question is found, return the corresponding answer
     if ($best_match_score > 50) {
         $answer = $qa_dict[$best_match];
-        echo $answer;
+        echo '<div class="chat-message chat-message-incoming"><div class="chat-message-content"><p>' . $answer . '</p></div></div>';
     }
     else {
-        echo "Sorry, I couldn't find an answer to your question.";
+        echo '<div class="chat-message chat-message-incoming"><div class="chat-message-content"><p>Sorry, I couldn\'t find an answer to your question.</p></div></div>';
     }
 }
-    ?>
+?>
+
 </p>
             </div>
 
